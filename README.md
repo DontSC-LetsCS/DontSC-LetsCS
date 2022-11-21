@@ -17,12 +17,12 @@ YAPP CS 스터디 1팀
 <table style="font-weight : bold">
     <tr>
         <td align="center">
-            <a href="https://github.com/Park-Young-Hun">                 
+            <a href="https://github.com/leeari95">                 
                 <img alt="이아리" src="https://avatars.githubusercontent.com/leeari95" width="80" />            
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/ashlovesliitea">                 
+            <a href="https://github.com/anyukyung">                 
                 <img alt="안유경" src="https://avatars.githubusercontent.com/anyukyung" width="80" />            
             </a>
         </td>
@@ -32,12 +32,12 @@ YAPP CS 스터디 1팀
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/anyukyung">                 
+            <a href="https://github.com/dudtjs1021ej">                 
                 <img alt="임영선" src="https://avatars.githubusercontent.com/dudtjs1021ej" width="80" />            
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/jinsim">                 
+            <a href="https://github.com/seonyoung42">                 
                 <img alt="장선영" src="https://avatars.githubusercontent.com/seonyoung42" width="80" />            
             </a>
         </td>
