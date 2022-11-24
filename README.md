@@ -27,7 +27,7 @@ YAPP CS 스터디 1팀
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/activedg">                 
+            <a href="https://github.com/ungchun">                 
                 <img alt="김성훈" src="https://avatars.githubusercontent.com/ungchun" width="80" />            
             </a>
         </td>
