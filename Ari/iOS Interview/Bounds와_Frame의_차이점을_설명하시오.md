@@ -67,3 +67,14 @@ Super View 좌표계에서 View의 위치와 크기를 나타낸다.
 * View를 회전(transfomation)한 후 View의 실제 크기를 알고 싶을 때 사용한다.
 * View 내부에 그림을 그릴 때(drawRect) 사용한다.
 * ScrollView에서 스크롤링 할 때 사용한다.
+
+
+</br>
+
+---
+
+</br>
+
+# Reference
+
+- https://babbab2.tistory.com/44
