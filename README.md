@@ -61,7 +61,7 @@ YAPP CS 스터디 1팀
 - App thinning에 대해서 설명하시오. `장선영` 
 
 ### week3
-- 앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가? `이아리` 
+- [앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가? `이아리`](Ari/iOS%20Interview/앱이_시작할_때_main.c_에_있는_UIApplicationMain_함수에_의해서_생성되는_객체는_무엇인가.md)
 - @Main에 대해서 설명하시오. `안유경` 
 - 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요? `김성훈` 
 - 상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오. `임영선` 
