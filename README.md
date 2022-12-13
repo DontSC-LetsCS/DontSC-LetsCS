@@ -69,7 +69,7 @@ YAPP CS 스터디 1팀
 
 ### week4
 - scene delegate에 대해 설명하시오. `이아리` 
-- UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가? `안유경` 
+- [UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가? `안유경`](https://plucky-boot-fc9.notion.site/10f24173dbf54960b97f495addd3464e)
 - App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오. `김성훈` 
 - NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오. `임영선` 
 - GCD API 동작 방식과 필요성에 대해 설명하시오. `장선영` 
