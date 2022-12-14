@@ -71,7 +71,7 @@ YAPP CS 스터디 1팀
 - [scene delegate에 대해 설명하시오. `이아리`](Ari/iOS%20Interview/Scene_delegate에_대해_설명하시오.md)
 - [UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가? `안유경`](https://plucky-boot-fc9.notion.site/10f24173dbf54960b97f495addd3464e)
 - [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오. `김성훈`](https://ungchun.notion.site/App-Not-running-Inactive-Active-Background-Suspended-9f3167c2e40643d78f0ec44b6374437b) 
-- NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오. `임영선` 
+- [NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오. `임영선`](https://lucky-count-b4e.notion.site/NSOperationQueue-GCD-Queue-a4392920a35443b7b0329670aa24174a) 
 - GCD API 동작 방식과 필요성에 대해 설명하시오. `장선영` 
 
 ### week5
