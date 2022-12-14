@@ -72,7 +72,7 @@ YAPP CS 스터디 1팀
 - [UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가? `안유경`](https://plucky-boot-fc9.notion.site/10f24173dbf54960b97f495addd3464e)
 - [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오. `김성훈`](https://ungchun.notion.site/App-Not-running-Inactive-Active-Background-Suspended-9f3167c2e40643d78f0ec44b6374437b) 
 - [NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오. `임영선`](https://lucky-count-b4e.notion.site/NSOperationQueue-GCD-Queue-a4392920a35443b7b0329670aa24174a) 
-- GCD API 동작 방식과 필요성에 대해 설명하시오. `장선영` 
+- [GCD API 동작 방식과 필요성에 대해 설명하시오. `장선영`](https://grizzly-swift-83d.notion.site/GCD-API-65ed102d535449a38f0e566d643307ca)
 
 ### week5
 - Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오. `이아리` 
