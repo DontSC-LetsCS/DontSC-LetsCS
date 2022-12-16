@@ -58,7 +58,7 @@ YAPP CS 스터디 1팀
 - [실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오. `안유경`](https://plucky-boot-fc9.notion.site/cb3f5e4688054e479573416a54228ace)
 - [앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가? `김성훈`](https://ungchun.notion.site/8d8ba660c21642f49d2489d29c6510f4) 
 - [앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가? `임영선`](https://lucky-count-b4e.notion.site/5b4ffe9199dc4d55933156d852a1ad5c)
-- App thinning에 대해서 설명하시오. `장선영` 
+- [App thinning에 대해서 설명하시오. `장선영`](https://grizzly-swift-83d.notion.site/App-thinning-fc31fe2c06454af5bea695d88bb13c35)
 
 ### week3
 - [앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가? `이아리`](Ari/iOS%20Interview/앱이_시작할_때_main.c_에_있는_UIApplicationMain_함수에_의해서_생성되는_객체는_무엇인가.md)
