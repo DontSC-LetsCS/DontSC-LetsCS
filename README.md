@@ -78,7 +78,7 @@ YAPP CS 스터디 1팀
 - Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오. `이아리` 
 - iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가? `안유경`
 - Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오. `김성훈` 
-- Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오. `임영선` 
+- [Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오. `임영선`](https://lucky-count-b4e.notion.site/Delegate-retain-310f6fc4fb5f4618b30f646be053f245)
 - NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오. `장선영` 
 
 ### week6
