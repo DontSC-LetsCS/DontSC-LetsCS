@@ -79,7 +79,7 @@ YAPP CS 스터디 1팀
 - iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가? `안유경`
 - [Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오. `김성훈`](https://ungchun.notion.site/Foundation-Kit-4c1bfb6845434d26b93a8c32f97c3eab)
 - [Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오. `임영선`](https://lucky-count-b4e.notion.site/Delegate-retain-310f6fc4fb5f4618b30f646be053f245)
-- NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오. `장선영` 
+- [NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오. `장선영`](https://grizzly-swift-83d.notion.site/NotificationCenter-5d56e55b1e29444d944ad7aa821be470)
 
 ### week6
 - UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가? `이아리` 
