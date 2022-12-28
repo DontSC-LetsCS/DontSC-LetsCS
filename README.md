@@ -76,14 +76,14 @@ YAPP CS 스터디 1팀
 
 ### week5
 - Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오. `이아리` 
-- iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가? `안유경`
+- [iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가? `안유경`](https://plucky-boot-fc9.notion.site/iOS-User-Interface-d58b4b4f599c4692be37c990f536aefb)
 - [Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오. `김성훈`](https://ungchun.notion.site/Foundation-Kit-4c1bfb6845434d26b93a8c32f97c3eab)
 - [Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오. `임영선`](https://lucky-count-b4e.notion.site/Delegate-retain-310f6fc4fb5f4618b30f646be053f245)
 - [NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오. `장선영`](https://grizzly-swift-83d.notion.site/NotificationCenter-5d56e55b1e29444d944ad7aa821be470)
 
 ### week6
 - UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가? `이아리` 
-- App Bundle의 구조와 역할에 대해 설명하시오. `안유경`
+- [App Bundle의 구조와 역할에 대해 설명하시오. `안유경`](https://plucky-boot-fc9.notion.site/App-Bundle-4049a0ede75b4f6c93ff4a94ed0d2bb3)
 - [모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가? `김성훈`](https://ungchun.notion.site/View-Controller-bdbadccac45b46dda16b622639abdc9d) 
 - [자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오. `임영선`](https://lucky-count-b4e.notion.site/Custom-View-e73e662acfb64b26bae737700097f37e) 
 - View 객체에 대해 설명하시오. `장선영` 
