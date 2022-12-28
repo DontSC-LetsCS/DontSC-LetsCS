@@ -86,7 +86,7 @@ YAPP CS 스터디 1팀
 - [App Bundle의 구조와 역할에 대해 설명하시오. `안유경`](https://plucky-boot-fc9.notion.site/App-Bundle-4049a0ede75b4f6c93ff4a94ed0d2bb3)
 - [모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가? `김성훈`](https://ungchun.notion.site/View-Controller-bdbadccac45b46dda16b622639abdc9d) 
 - [자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오. `임영선`](https://lucky-count-b4e.notion.site/Custom-View-e73e662acfb64b26bae737700097f37e) 
-- View 객체에 대해 설명하시오. `장선영` 
+- [View 객체에 대해 설명하시오. `장선영`](https://grizzly-swift-83d.notion.site/View-b7c4accc96884a34b63997cb3b078c74)
 
 ### week7
 - UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오. `이아리` 
