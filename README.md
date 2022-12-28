@@ -84,7 +84,7 @@ YAPP CS 스터디 1팀
 ### week6
 - UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가? `이아리` 
 - App Bundle의 구조와 역할에 대해 설명하시오. `안유경`
-- 모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가? `김성훈` 
+- [모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가? `김성훈`](https://ungchun.notion.site/View-Controller-bdbadccac45b46dda16b622639abdc9d) 
 - 자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오. `임영선` 
 - View 객체에 대해 설명하시오. `장선영` 
 
