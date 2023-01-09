@@ -93,7 +93,7 @@ YAPP CS 스터디 1팀
 - UIWindow 객체의 역할은 무엇인가? `안유경` 
 - [UINavigationController 의 역할이 무엇인지 설명하시오. `김성훈`](https://ungchun.notion.site/UINavigationController-664def9a3f654333a78ede223827b162)
 - [TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오. `임영선`](https://lucky-count-b4e.notion.site/TableView-Cell-DataSource-91f4aa0cda22463b8eb76ff69ec09734) 
-- 하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오. `장선영` 
+- [하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오. `장선영`](https://grizzly-swift-83d.notion.site/View-Controller-TableView-Controller-b8edea7073ab41938156140428244e5c) 
 
 ### week8
 - setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오. `이아리` 
