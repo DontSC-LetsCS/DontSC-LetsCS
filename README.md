@@ -98,7 +98,7 @@ YAPP CS 스터디 1팀
 ### week8
 - setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오. `이아리` 
 - stackView의 장점과 단점에 대해서 설명하시오. `안유경` 
-- NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.  `김성훈` 
+- [NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.  `김성훈`](https://ungchun.notion.site/NSCache-133537ee9e3f46aa97455e8e0858dfde)
 - URLSession에 대해서 설명하시오. `임영선` 
 - prepareForReuse에 대해서 설명하시오. `장선영` 
 
