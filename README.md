@@ -107,7 +107,7 @@ YAPP CS 스터디 1팀
 - ViewController의 생명주기를 설명하시오. `안유경` 
 - TableView와 CollectionView의 차이점을 설명하시오. `김성훈` 
 - 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지) `임영선` 
-- hugging, resistance에 대해서 설명하시오. `장선영` 
+- [hugging, resistance에 대해서 설명하시오. `장선영`](https://grizzly-swift-83d.notion.site/hugging-resistance-baca7dba7045483fac61b9d10ee42ee5) 
 
 ### week10
 - Intrinsic Size에 대해서 설명하시오. `이아리` 
