@@ -105,7 +105,7 @@ YAPP CS 스터디 1팀
 ### week9
 - 다크모드를 지원하는 방법에 대해 설명하시오. `이아리` 
 - ViewController의 생명주기를 설명하시오. `안유경` 
-- TableView와 CollectionView의 차이점을 설명하시오. `김성훈` 
+- [TableView와 CollectionView의 차이점을 설명하시오. `김성훈`](https://ungchun.notion.site/TableView-CollectionView-bf2eb995720d48de9344a3d39e6508d8) 
 - [오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지) `임영선`](https://lucky-count-b4e.notion.site/3-6985f37bf78f40999e23ec10d3af5145)
 - [hugging, resistance에 대해서 설명하시오. `장선영`](https://grizzly-swift-83d.notion.site/hugging-resistance-baca7dba7045483fac61b9d10ee42ee5) 
 
