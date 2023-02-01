@@ -114,7 +114,7 @@ YAPP CS 스터디 1팀
 - 스토리보드를 이용했을때의 장단점을 설명하시오. `안유경` 
 - Safearea에 대해서 설명하시오. `김성훈` 
 - Left Constraint 와 Leading Constraint 의 차이점을 설명하시오. `임영선` 
-- struct와 class와 enum의 차이를 설명하시오. `장선영` 
+- [struct와 class와 enum의 차이를 설명하시오. `장선영`](https://grizzly-swift-83d.notion.site/struct-class-enum-083a7924f8ae4a5b8e155bb337a8d111)
 
 ### week11
 - class의 성능을 향상 시킬수 있는 방법들을 나열해보시오. `이아리` 
