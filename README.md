@@ -112,7 +112,7 @@ YAPP CS 스터디 1팀
 ### week10
 - Intrinsic Size에 대해서 설명하시오. `이아리` 
 - 스토리보드를 이용했을때의 장단점을 설명하시오. `안유경` 
-- Safearea에 대해서 설명하시오. `김성훈` 
+- [Safearea에 대해서 설명하시오. `김성훈`](https://ungchun.notion.site/Safearea-6e4eaa6aaaf84c09b38f8dbcea3a46d5) 
 - [Left Constraint 와 Leading Constraint 의 차이점을 설명하시오. `임영선`](https://lucky-count-b4e.notion.site/Left-Constraint-Leading-Constraint-9714db6e65834d8d8b85cb09acd9d134) 
 - [struct와 class와 enum의 차이를 설명하시오. `장선영`](https://grizzly-swift-83d.notion.site/struct-class-enum-083a7924f8ae4a5b8e155bb337a8d111)
 
