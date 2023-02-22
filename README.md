@@ -121,7 +121,7 @@ YAPP CS 스터디 1팀
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오. `안유경` 
 - Convenience init에 대해 설명하시오. `김성훈` 
 - [AnyObject에 대해 설명하시오. `임영선`](https://lucky-count-b4e.notion.site/AnyObject-98b8e4f2b7c74b44be5da70b03dbc9fd)
-- Optional 이란 무엇인지 설명하시오. `장선영` 
+- [Optional 이란 무엇인지 설명하시오. `장선영`](https://grizzly-swift-83d.notion.site/Optional-d1cd76fa55a449eb920a191828dbe2b6) 
 
 ### week12
 - Struct 가 무엇이고 어떻게 사용하는지 설명하시오. `이아리` 
